@@ -1,4 +1,4 @@
-# GCollector
+# CGCollector
 A basic C Garbage Collector
 
 ```
